@@ -83,12 +83,6 @@
 3. **Download and initialize** installation package
 4. **Run .exe as Administrator** for full access
 
-### 🚀 ADVANCED INSTALLATION
-1. **Navigate to Releases section** in repository
-2. **Download latest version** (v2.1.5)
-3. **Extract package** to preferred directory
-4. **Run .exe as Administrator** to activate
-
 ### ⚙️ SYSTEM REQUIREMENTS
 - **OS**: Windows 10/11 64-bit
 - **Memory**: 8GB RAM minimum, 16GB recommended
